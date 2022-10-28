@@ -7,8 +7,8 @@ A list of apps that run natively on ARM64 Windows devices
 - [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 - [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32-arm64?env=beta)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe)
-- WSL2
-- Windows Subsystem for Android
+- [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/#install-the-amazon-appstore)
 
 # Entertainment
 - [Spotify Beta](https://download.scdn.co/SpotifyBetaARM64.exe)
