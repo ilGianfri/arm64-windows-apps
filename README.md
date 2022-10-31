@@ -25,7 +25,7 @@ A list of apps that run natively on ARM64 Windows devices
 
 # Utilities
 - [qBittorrent (unofficial ARM64 build)](https://github.com/minnyres/qbittorrent-windows-arm64/releases)
-- [Microsoft Mouse and Keyboard Center download](https://go.microsoft.com/fwlink/?linkid=2114630)
+- [Microsoft Mouse and Keyboard Center](https://go.microsoft.com/fwlink/?linkid=2114630)
 - [7zip](https://www.7-zip.org/a/7z2201-arm64.exe)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 - [WinMerge](https://winmerge.org/downloads/?lang=en)
