@@ -5,6 +5,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+- [JetBrains Rider 2022 Preview](https://www.jetbrains.com/rider/nextversion/)
 - [Git for Windows (beta)](https://github.com/dennisameling/git/releases)
 - [GitHub Desktop (beta)](https://central.github.com/deployments/desktop/desktop/latest/win32-arm64?env=beta)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe)
