@@ -12,6 +12,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Node.js (unofficial build)](https://unofficial-builds.nodejs.org/download/release/v18.11.0/)
 - [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/#install-the-amazon-appstore)
+- [Microsoft Build of OpenJDK/Java](https://learn.microsoft.com/en-us/java/openjdk/download)
 
 # Entertainment
 - [Spotify Beta](https://download.scdn.co/SpotifyBetaARM64.exe)
