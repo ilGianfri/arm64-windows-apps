@@ -34,3 +34,4 @@ A list of apps that run natively on ARM64 Windows devices
 - [WinMerge](https://winmerge.org/downloads/?lang=en)
 - [FileZilla](https://github.com/driver1998/filezilla-woa/releases)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases)
+- [Obsidian](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.3/Obsidian.1.0.3-arm64.exe)
