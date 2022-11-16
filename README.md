@@ -26,6 +26,7 @@ A list of apps that run natively on ARM64 Windows devices
 # Browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64-aarch64&lang=en-US)
+- [Brave (Experimental)](https://github.com/brave/brave-browser/releases/tag/v1.47.9)
 
 # Utilities
 - [qBittorrent (unofficial ARM64 build)](https://github.com/minnyres/qbittorrent-windows-arm64/releases)
