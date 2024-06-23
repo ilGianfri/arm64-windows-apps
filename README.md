@@ -13,6 +13,10 @@ A list of apps that run natively on ARM64 Windows devices
 - [Node.js (unofficial build)](https://unofficial-builds.nodejs.org/download/release/v18.11.0/)
 - [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/#install-the-amazon-appstore)
 - [Microsoft Build of OpenJDK/Java](https://learn.microsoft.com/en-us/java/openjdk/download)
+- [Python](https://www.python.org/downloads/)
+- [Qt](https://www.qt.io/)
+- [CMake](https://cmake.org/download/)
+- SQLite - Enabled, but no prebuilt binaries available yet. No response on request for ARM64 binaries.
 
 # Entertainment
 - [Spotify Beta](https://download.scdn.co/SpotifyBetaARM64.exe)
@@ -22,11 +26,13 @@ A list of apps that run natively on ARM64 Windows devices
 - [Unigram—Telegram for Windows](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 - [Zoom](https://zoom.us/client/5.12.3.9638/ZoomInstallerFull.exe?archType=winarm64)
+- [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=arm64)
 
 # Browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64-aarch64&lang=en-US)
 - [Brave (Experimental)](https://github.com/brave/brave-browser/releases/tag/v1.47.9)
+- [Chrome](https://www.google.com/chrome/) - [Blog post](https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/)
 
 # Utilities
 - [qBittorrent (unofficial ARM64 build)](https://github.com/minnyres/qbittorrent-windows-arm64/releases)
@@ -37,3 +43,11 @@ A list of apps that run natively on ARM64 Windows devices
 - [FileZilla](https://github.com/driver1998/filezilla-woa/releases)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases)
 - [Obsidian](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.3/Obsidian.1.0.3-arm64.exe)
+
+# Productivity
+- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
+- [GIMP](https://www.gimp.org/downloads/)
+- [Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html)
+
+# VPN
+-[WireGuard](https://download.wireguard.com/windows-client/)
