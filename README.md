@@ -4,6 +4,7 @@ A list of apps that run natively on ARM64 Windows devices
 # Development
 - [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+- [Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio)
 - [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 - [JetBrains Rider 2022 Preview](https://www.jetbrains.com/rider/nextversion/)
 - [Git for Windows (beta)](https://github.com/dennisameling/git/releases)
