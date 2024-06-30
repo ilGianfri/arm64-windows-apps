@@ -49,4 +49,4 @@ A list of apps that run natively on ARM64 Windows devices
 - [Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html)
 
 # VPN
--[WireGuard](https://download.wireguard.com/windows-client/)
+- [WireGuard](https://download.wireguard.com/windows-client/)
