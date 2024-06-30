@@ -20,7 +20,7 @@ A list of apps that run natively on ARM64 Windows devices
 
 # Entertainment
 - [Spotify](https://download.scdn.co/SpotifySetup.exe)
-- [VLC](http://people.videolan.org/~jb/Builds/ARM/vlc-4.0.0-dev-20180508-aarch64.zip)
+- [VLC](https://artifacts.videolan.org/vlc/nightly-win64-arm-llvm/20240630-0424/vlc-4.0.0-dev-win64-d0213dd4.msi)
 
 # Chat & Calls
 - [Unigram—Telegram for Windows](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
