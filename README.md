@@ -50,3 +50,4 @@ A list of apps that run natively on ARM64 Windows devices
 
 # VPN
 - [WireGuard](https://download.wireguard.com/windows-client/)
+- [Tailscale](https://pkgs.tailscale.com/stable/#windows)
