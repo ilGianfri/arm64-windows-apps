@@ -23,7 +23,6 @@ A list of apps that run natively on ARM64 Windows devices
 - [VLC](https://artifacts.videolan.org/vlc/nightly-win64-arm-llvm/20240630-0424/vlc-4.0.0-dev-win64-d0213dd4.msi)
 
 # Chat & Calls
-- [Unigram—Telegram for Windows](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 - [Zoom](https://zoom.us/client/5.12.3.9638/ZoomInstallerFull.exe?archType=winarm64)
 - [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=arm64)
