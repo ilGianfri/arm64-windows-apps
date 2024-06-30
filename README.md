@@ -19,7 +19,7 @@ A list of apps that run natively on ARM64 Windows devices
 - SQLite - Enabled, but no prebuilt binaries available yet. No response on request for ARM64 binaries.
 
 # Entertainment
-- [Spotify Beta](https://download.scdn.co/SpotifyBetaARM64.exe)
+- [Spotify](https://download.scdn.co/SpotifySetup.exe)
 - [VLC](http://people.videolan.org/~jb/Builds/ARM/vlc-4.0.0-dev-20180508-aarch64.zip)
 
 # Chat & Calls
