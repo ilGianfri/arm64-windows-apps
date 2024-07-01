@@ -33,6 +33,8 @@ A list of apps that run natively on ARM64 Windows devices
 - [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64-aarch64&lang=en-US)
 - [Brave (Experimental)](https://github.com/brave/brave-browser/releases/tag/v1.47.9)
 - [Chrome](https://www.google.com/chrome/) - [Blog post](https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/)
+- [Opera](https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+developer&arch=arm64)
+- [Vivaldi](https://downloads.vivaldi.com/snapshot/Vivaldi.6.7.3329.7.arm64.exe)
 
 # Utilities
 - [qBittorrent (unofficial ARM64 build)](https://github.com/minnyres/qbittorrent-windows-arm64/releases)
