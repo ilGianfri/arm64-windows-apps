@@ -9,6 +9,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [JetBrains Rider 2022 Preview](https://www.jetbrains.com/rider/nextversion/)
 - [Git for Windows (beta)](https://github.com/dennisameling/git/releases)
 - [GitHub Desktop (beta)](https://central.github.com/deployments/desktop/desktop/latest/win32-arm64?env=beta)
+- [GitHub CLI](https://github.com/cli/cli/releases)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe)
 - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Node.js (unofficial build)](https://unofficial-builds.nodejs.org/download/release/v18.11.0/)
@@ -45,6 +46,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [FileZilla](https://github.com/driver1998/filezilla-woa/releases)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases)
 - [Obsidian](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.3/Obsidian.1.0.3-arm64.exe)
+- [Sysinternals Suite](https://apps.microsoft.com/detail/9p7knl5rwt25)
 
 # Productivity
 - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
@@ -54,3 +56,12 @@ A list of apps that run natively on ARM64 Windows devices
 # VPN
 - [WireGuard](https://download.wireguard.com/windows-client/)
 - [Tailscale](https://pkgs.tailscale.com/stable/#windows)
+
+# Benchmark & Monitoring
+- [CrystalDiskInfo](https://crystalmark.info/en/download/)
+- [CrystalDiskMark](https://crystalmark.info/en/download/)
+- [HWMonitor](https://www.cpuid.com/softwares/hwmonitor-arm64.html)
+
+# Password Managers
+- [OnePassword (Preview)](https://1password.community/discussion/145886/1password-for-windows-on-arm-preview)
+- [Bitwarden](https://github.com/bitwarden/clients/releases)
