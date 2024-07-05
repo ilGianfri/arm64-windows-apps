@@ -15,7 +15,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [Node.js (unofficial build)](https://unofficial-builds.nodejs.org/download/release/v18.11.0/)
 - [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/#install-the-amazon-appstore)
 - [Microsoft Build of OpenJDK/Java](https://learn.microsoft.com/en-us/java/openjdk/download)
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/windows/)
 - [Qt](https://www.qt.io/)
 - [CMake](https://cmake.org/download/)
 - SQLite - Enabled, but no prebuilt binaries available yet. No response on request for ARM64 binaries.
