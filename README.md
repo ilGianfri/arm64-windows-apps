@@ -19,6 +19,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [Qt](https://www.qt.io/)
 - [CMake](https://cmake.org/download/)
 - SQLite - Enabled, but no prebuilt binaries available yet. No response on request for ARM64 binaries.
+- [ILSpy](https://github.com/icsharpcode/ILSpy/releases)
 
 # Entertainment
 - [Spotify](https://download.scdn.co/SpotifySetup.exe)
