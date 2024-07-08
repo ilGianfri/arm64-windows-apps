@@ -20,6 +20,7 @@ A list of apps that run natively on ARM64 Windows devices
 - [CMake](https://cmake.org/download/)
 - SQLite - Enabled, but no prebuilt binaries available yet. No response on request for ARM64 binaries.
 - [ILSpy](https://github.com/icsharpcode/ILSpy/releases)
+- [OpenJDK (Microsoft)](https://www.microsoft.com/openjdk)
 
 # Entertainment
 - [Spotify](https://download.scdn.co/SpotifySetup.exe)
@@ -41,18 +42,21 @@ A list of apps that run natively on ARM64 Windows devices
 # Utilities
 - [qBittorrent (unofficial ARM64 build)](https://github.com/minnyres/qbittorrent-windows-arm64/releases)
 - [Microsoft Mouse and Keyboard Center](https://go.microsoft.com/fwlink/?linkid=2114630)
-- [7zip](https://www.7-zip.org/a/7z2201-arm64.exe)
+- [7-Zip](https://www.7-zip.org/a/7z2201-arm64.exe)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 - [WinMerge](https://winmerge.org/downloads/?lang=en)
 - [FileZilla](https://github.com/driver1998/filezilla-woa/releases)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases)
 - [Obsidian](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.3/Obsidian.1.0.3-arm64.exe)
 - [Sysinternals Suite](https://apps.microsoft.com/detail/9p7knl5rwt25)
+- [Drawboard PDF](https://www.drawboard.com/)
+- [Rufus](https://rufus.ie/en/)
 
 # Productivity
 - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
 - [GIMP](https://www.gimp.org/downloads/)
 - [Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html)
+- [Shapr3D](https://www.shapr3d.com/)
 
 # VPN
 - [WireGuard](https://download.wireguard.com/windows-client/)
