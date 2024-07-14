@@ -67,6 +67,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [GIMP](https://www.gimp.org/downloads/) | GIMP is a cross-platform image editor |
 | [Adobe Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html) | Adobe Photoshop is a raster graphics editor developed and published by Adobe |
 | [Adobe Lightroom](https://apps.microsoft.com/detail/xpdp264x2dk8nb) | AI-assisted photo editor for editing, organizing, storing, and sharing photos and videos across desktop, mobile, and web |
+| [Luminar Neo](https://apps.microsoft.com/detail/9p7jqgl6gc8p) | Luminar Neo is a powerful RAW photo editor with cutting-edge AI tools and other incredible features |
 | [Shapr3D](https://www.shapr3d.com/) | CAD modeling |
 | [LibreOffice](https://downloadarchive.documentfoundation.org/libreoffice/old/latest/win/aarch64/) | LibreOffice is a powerful office suite |
 
