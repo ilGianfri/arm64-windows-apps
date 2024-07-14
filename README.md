@@ -38,12 +38,12 @@ A list of apps that run natively on ARM64 Windows devices
 # Browser
 | Name | Description |
 |------|-------------|
-| [Microsoft Edge](https://www.microsoft.com/en-us/edge)               | Microsoft's fast and secure web browser, integrated with Windows.                             |
-| [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64-aarch64&lang=en-US) | A privacy-focused browser with powerful customization features.                               |
-| [Brave (Experimental)](https://github.com/brave/brave-browser/releases/tag/v1.47.9) | A browser focusing on privacy and ad-blocking by default, experimental version.               |
-| [Chrome](https://www.google.com/chrome/)                             | Google's popular web browser known for its speed and simplicity. [Blog post](https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/) |
-| [Opera](https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+developer&arch=arm64) | A web browser that promotes fast browsing, free VPN, and ad blocker.                          |
-| [Vivaldi](https://downloads.vivaldi.com/snapshot/Vivaldi.6.7.3329.7.arm64.exe) | A highly customizable browser aimed at power users, with unique features.                     |
+| [Microsoft Edge](https://www.microsoft.com/en-us/edge) | Microsoft's fast and secure web browser, integrated with Windows |
+| [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64-aarch64&lang=en-US) | A privacy-focused browser with powerful customization features |
+| [Brave (Experimental)](https://github.com/brave/brave-browser/releases/tag/v1.47.9) | A browser focusing on privacy and ad-blocking by default, experimental version |
+| [Chrome](https://www.google.com/chrome/) | Google's popular web browser known for its speed and simplicity. [Blog post](https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/) |
+| [Opera](https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+developer&arch=arm64) | A web browser that promotes fast browsing, free VPN, and ad blocker |
+| [Vivaldi](https://downloads.vivaldi.com/snapshot/Vivaldi.6.7.3329.7.arm64.exe) | A highly customizable browser aimed at power users, with unique features. |
 
 # Utilities
 | Name | Description |
@@ -65,8 +65,10 @@ A list of apps that run natively on ARM64 Windows devices
 |------|-------------|
 | [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/microsoft-office) | Microsoft Office suite (Word, Excel, PowerPoint, etc) |
 | [GIMP](https://www.gimp.org/downloads/) | GIMP is a cross-platform image editor |
-| [Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html) | Adobe Photoshop is a raster graphics editor developed and published by Adobe |
+| [Adobe Photoshop](https://helpx.adobe.com/photoshop/kb/windows-arm-support.html) | Adobe Photoshop is a raster graphics editor developed and published by Adobe |
+| [Adobe Lightroom](https://apps.microsoft.com/detail/xpdp264x2dk8nb) | AI-assisted photo editor for editing, organizing, storing, and sharing photos and videos across desktop, mobile, and web |
 | [Shapr3D](https://www.shapr3d.com/) | CAD modeling |
+| [LibreOffice](https://downloadarchive.documentfoundation.org/libreoffice/old/latest/win/aarch64/) | LibreOffice is a powerful office suite |
 
 # VPN
 | Name | Description |
