@@ -59,6 +59,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [Sysinternals Suite](https://apps.microsoft.com/detail/9p7knl5rwt25)| A suite of technical tools to configure, optimize, test, detect, and correct Windows systems issues. |
 | [Drawboard PDF](https://www.drawboard.com/) | A PDF annotator and reader that lets you markup, organize, and collaborate on PDF documents |
 | [Rufus](https://rufus.ie/en/) | A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives |
+| [USB Device Tree Viewer](https://www.uwe-sieber.de/files/UsbTreeView_arm64.zip) | View USB devices info |
 
 # Productivity
 | Name | Description |
