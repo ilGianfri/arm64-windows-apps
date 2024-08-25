@@ -71,6 +71,9 @@ A list of apps that run natively on ARM64 Windows devices
 | [Luminar Neo](https://apps.microsoft.com/detail/9p7jqgl6gc8p) | Luminar Neo is a powerful RAW photo editor with cutting-edge AI tools and other incredible features |
 | [Shapr3D](https://www.shapr3d.com/) | CAD modeling |
 | [LibreOffice](https://downloadarchive.documentfoundation.org/libreoffice/old/latest/win/aarch64/) | LibreOffice is a powerful office suite |
+| [Affinity Designer](https://affinity.serif.com/en-us/designer/) | Affinity Designer is a vector graphics editor |
+| [Affinity Photo](https://affinity.serif.com/en-us/photo/) | Affinity Photo is a raster graphics editor |
+| [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) | Affinity Publisher is a desktop publishing application |
 
 # VPN
 | Name | Description |
