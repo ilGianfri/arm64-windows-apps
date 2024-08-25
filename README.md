@@ -84,7 +84,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [CrystalDiskInfo](https://crystalmark.info/en/download/) | A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe |
 | [CrystalDiskMark](https://crystalmark.info/en/download/) | CrystalDiskMark is a simple disk benchmark software |
 | [HWMonitor](https://www.cpuid.com/softwares/hwmonitor-arm64.html) | HWMonitor for Windows® is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, powers, currents, etc |
-| [HwInfo (Portable Beta)](https://www.hwinfo.com/download/) | HWiNFO is a professional hardware information and diagnostic tool supporting the latest components, industry technologies, and standards |
+| [HwInfo](https://www.hwinfo.com/download/) | HWiNFO is a professional hardware information and diagnostic tool supporting the latest components, industry technologies, and standards |
 
 # Password Managers
 | Name | Description |
