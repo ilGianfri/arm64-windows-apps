@@ -34,6 +34,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app) | A collaboration platform that integrates with Microsoft 365. |
 | [Zoom](https://zoom.us/client/5.12.3.9638/ZoomInstallerFull.exe?archType=winarm64) | A video conferencing tool with meeting and webinar capabilities. |
 | [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=arm64) | Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email. |
+| [Discord Canary](https://canary.discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=arm64) | Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities |
 
 # Browser
 | Name | Description |
@@ -60,6 +61,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [Drawboard PDF](https://www.drawboard.com/) | A PDF annotator and reader that lets you markup, organize, and collaborate on PDF documents |
 | [Rufus](https://rufus.ie/en/) | A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives |
 | [USB Device Tree Viewer](https://www.uwe-sieber.de/files/UsbTreeView_arm64.zip) | View USB devices info |
+| [OBS Studio](https://github.com/obsproject/obs-studio/releases) | OBS Studio is a free and open-source software for video recording and live streaming. |
 
 # Productivity
 | Name | Description |
