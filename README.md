@@ -9,7 +9,7 @@ A list of apps that run natively on ARM64 Windows devices
 | [Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio) | A modern open-source, cross-platform hybrid data analytics tool designed to simplify the data landscape |
 | [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/) | Preview version of Visual Studio Code |
 | [JetBrains Rider](https://www.jetbrains.com/rider/download/#section=windows) | JetBrains Rider is a leading cross-platform IDE for .NET and game developers looking to boost productivity and streamline their development process |
-| [Git for Windows (beta)](https://github.com/dennisameling/git/releases) | Unofficial arm64 port of Git for Windows |
+| [Git for Windows](https://git-scm.com/downloads/win) | Unofficial arm64 port of Git for Windows |
 | [GitHub Desktop (beta)](https://central.github.com/deployments/desktop/desktop/latest/win32-arm64?env=beta) | Desktop client for GitHub |
 | [GitHub CLI](https://github.com/cli/cli/releases) | Command-line interface for GitHub |
 | [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe) | Text editor with advanced features |
