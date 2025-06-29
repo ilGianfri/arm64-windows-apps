@@ -26,7 +26,7 @@ A list of apps that run natively on ARM64 Windows devices
 | Name | Description |
 |------|-------------|
 | [Spotify](https://download.scdn.co/SpotifySetup.exe) | Spotify is a digital music service that gives you access to millions of songs |
-| [VLC](https://artifacts.videolan.org/vlc/nightly-win64-arm-llvm/20240630-0424/vlc-4.0.0-dev-win64-d0213dd4.msi) | VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols |
+| [VLC](https://artifacts.videolan.org/vlc/nightly-win64-arm-llvm) | VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols |
 
 # Chat & Calls
 | Name | Description |
